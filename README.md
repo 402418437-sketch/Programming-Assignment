@@ -1,5 +1,7 @@
 # Smart Campus Resource Booking System
 
+https://github.com/402418437-sketch/Programming-Assignment.git
+
 A Python + Tkinter + SQLite application for managing campus resource bookings
 across multiple Richfield campuses.
 
